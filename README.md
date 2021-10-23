@@ -12,7 +12,7 @@ Decision boundary found by linear SVM
 Sometimes, the points in a dataset are not always linearly separable. You can see that it is not possible to draw a straight line to separate the two sets of points. With some manipulation, however, you can make this set of points linearly separable. This technique is known as the kernel trick. The kernel trick is  technique in machine learning that transforms data into a higher dimension space so that, after the transformation, it has a clear dividing margin between classes of data.
 
 ![SVM_6](https://user-images.githubusercontent.com/53411455/138561795-707272b8-d032-4148-9c21-f3773d268db6.png)
-3D hyperpane cutting through two sets of points
+                             3D hyperpane cutting through two sets of points
 
 # Types of Kernel
 
