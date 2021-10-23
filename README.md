@@ -5,7 +5,8 @@ The main idea behind SVM is to draw a line between two or more classes in the be
 The hyperplane is the line separating the two groups of points. We use the term “hyperplane” instead of “line” because in SVM we typically deal with more than two dimensions, and using the word “hyperplane” more accurately conveys the idea of a plane in a multidimensional space.
 
 ![SVM_4](https://user-images.githubusercontent.com/53411455/138561828-cdc2ea45-5dd4-4474-bf66-3dd38019ff3a.png)
-Decision boundary found by linear SVM
+
+                                          Decision boundary found by linear SVM
 
 # Kernel Trick
 
